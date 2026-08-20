@@ -6,7 +6,6 @@
 
 ---
 
-## Screenshots
 
 <!-- Insert dashboard screenshot here -->
 <!-- ![Dashboard overview](docs/screenshots/dashboard.png) --><img width="1510" height="650" alt="Screenshot 2026-08-19 at 9 20 39 PM" src="https://github.com/user-attachments/assets/b9721084-877c-4f8a-87bd-3ff0310c80c3" />
